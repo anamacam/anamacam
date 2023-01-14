@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 <!--
 **anamacam/anamacam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
