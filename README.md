@@ -3,9 +3,7 @@
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
 ###
-
-![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)![](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
-
+![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 ###
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
