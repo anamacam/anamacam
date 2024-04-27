@@ -2,9 +2,6 @@
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-###
-![](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-###
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
